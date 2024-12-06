@@ -1,0 +1,96 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    border-radius: 0px;
+    box-sizing: border-box;
+    background-color: rgb(6, 226, 255);
+
+}
+
+div ul {
+    list-style-type: none;
+    overflow: hidden;
+}
+
+div ul li {
+    float: left;
+}
+
+div ul li a {
+    text-decoration: none;
+    margin-left: 100px;
+    border-radius: 10px;
+    color: blue;
+    background-color: deeppink;
+    transition: 2s;
+}
+
+div ul li a:hover {
+    color: deeppink;
+    background-color: blue;
+
+}
+
+div {
+    margin-left: 200px;
+}
+
+.t1 {
+    width: 200px;
+    color: rgb(128, 0, 128);
+    font-size: 50px;
+    margin-bottom: 50px;
+    text-shadow: 5px -7px 5px;
+}
+
+.form{
+    position: absolute;
+    left:900px;
+    top:20px;
+    outline: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serifc;
+    border-radius: 6px;  
+
+    width: 100px;
+}
+
+.form:hover{
+    
+    outline: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 6px;  
+    background-color: aqua;
+    color: black;
+    transition: 4s;
+    width: 300px;
+}
+
+.mark{
+    width: 60px;
+    color: aqua;
+}
+
+.ool{
+    color: aqua;
+    list-style: none;
+    overflow: hidden;
+}
+
+.ool li{
+    float: left;
+    margin-left: 20px;
+}
+.vid{
+    background-color: orange;
+    padding-left: 10px;
+    margin-left: 50px;
+   
+}
+
+
+
+
+/* .form{
+    margin-left:770px ;
+    margin-top: 20px;
+} */
